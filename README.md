@@ -1,1 +1,3 @@
-"# PaintPane" 
+" 小画板 "
+
+用JAVAFX实现了橡皮擦功能
